@@ -16,7 +16,7 @@ I am a highly motivated and passionate Software Developer experienced in Ruby, a
 
 <img src="https://github-readme-stats.vercel.app/api?username=jannet18&theme=radical&show_icons=true" alt="Github Stats"/>
 
-![Janet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jannet18.com&theme=gotham&layout=compact)
+![Janet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jannet18&theme=gotham&layout=compact)
 <br/>
 
 # Tech Stacks
